@@ -1,5 +1,6 @@
 # Star Wars Starships Web App
 (https://codoga.github.io/StarWars-Swapi-App/)
+
 This project is a web application that allows users to explore various starships from the Star Wars universe using the Star Wars API (SWAPI). Users can view a list of starships, search for starships by name or model, and view detailed information about each starship.
 
 # Purpose
